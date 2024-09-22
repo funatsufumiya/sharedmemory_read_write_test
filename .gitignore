@@ -1,0 +1,8 @@
+*
+!*/
+!*.*
+!SConstruct
+.sconsign.dblite
+.vscode
+*.o
+node_modules/
